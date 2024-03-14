@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @Gupta-Sachit
-- 👀 I’m interested in Web Development/A.I
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate with other developers and AI learners
-- 📫 How to reach me sachit.webdev@gmail.com
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I am STRONG
-        Deadlift-120KG
-        Sqaut-85KG
-        Bench-65KG
+-HI! I Am an youth learner on Web development
+-I am in intrested in APP Develoment and software managment 
+-I want to collabreate with other leasrners as well
+-I wish to learn from experinced learners and coder who are willing to collabrate with me
+I am working on many Projects that will be uploade on my REPOS soon...
+And try to grow my porfolio over time.
+
+-I AM 15 Years
 
 
 
