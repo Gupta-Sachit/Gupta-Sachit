@@ -1,9 +1,9 @@
--HI! I Am an youth learner on Web development
--I am in intrested in APP Develoment and software managment 
--I want to collabreate with other leasrners as well
--I wish to learn from experinced learners and coder who are willing to collabrate with me
-I am working on many Projects that will be uploade on my REPOS soon...
-And try to grow my porfolio over time.
+-HI! I Am an youth learner on Web development	
+-I am in intrested in APP Develoment and software managment 	
+-I want to collabreate with other leasrners as well	
+-I wish to learn from experinced learners and coder who are willing to collabrate with me	  
+I am working on many Projects that will be uploade on my REPOS soon...	
+And try to grow my porfolio over time.	
 
 -I AM 15 Years
 
